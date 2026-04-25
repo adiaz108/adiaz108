@@ -1,55 +1,63 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> I'm Abril</h1>
+<h1 align="center">
+Hi, I'm Abril
+</h1>
 
 <p align="center">
-  💻 Software Engineering Student <br>
-  ☕ Java • Python 
+  software engineering student ♡<br>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9ECF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Java+%7C+Python+%7C+Web+Dev;Pretty+girl+in+STEM+%E2%9C%A8;Building+cool+things+with+code" />
 </p>
 
 ---
 
-## ✨ About Me
-- 🎓 Software Engineering student  
-- 🌱 Currently learning Java, networking and web development  
-- 💡 Interested in software, UI/UX and creative coding  
-- 🚀 Working on university projects  
+## ♡ about me
+
+```yaml
+name: Abril
+major: Software Engineering
+currently_learning:
+  - Java
+  - Networking
+  - Web Development
+
+interests:
+  - UI/UX
+  - Coding
+  - Cybersecurity
+```
 
 ---
 
-## 🛠 Tech Stack
-<p>
+## 💻 tech stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌸 github stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adiaz108&show_icons=true&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiaz108&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adiaz108&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiaz108&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌸 Currently
-```java
-while(alive){
-   learn();
-   code();
-   buildCoolStuff();
-}
-```
+
+## 🎀 projects
+- 📚 Cineblog
+- 🚀 More coming soon...
 
 ---
-
-## 🚀 Featured Projects
-- 📌  Cineblog
-- 📌 Networking Chat App 
-
----
-
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adiaz108&color=ff69b4">
+<img src="https://komarev.com/ghpvc/?username=adiaz108&color=ff9ecf&style=flat-square"/>
+</p>
+
+<p align="center">
+“make it work, make it pretty.”
 </p>
