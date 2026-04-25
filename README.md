@@ -1,7 +1,11 @@
+<p align="center">
+<img src="https://media.tenor.com/vbOYK-N4uDYAAAAi/cat.gif" width="160"/>
+</p>
+
 <h1 align="center">Abril Díaz</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=F78FB3&center=true&width=500&lines=Software+Engineering+Student;Learning;Java+%7C+Python+%7C+Web" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=F78FB3&center=true&width=500&lines=Software+Engineering+Student;Learning%7C+Java+%7C+Python+%7C+Web" />
 </p>
 
 ---
