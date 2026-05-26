@@ -1,55 +1,36 @@
-<p align="center">
-<img src="https://media.tenor.com/vbOYK-N4uDYAAAAi/cat.gif" width="160"/>
-</p>
+<div align="center">
 
-<h1 align="center">Abril Díaz</h1>
+<img src="https://media.tenor.com/vbOYK-N4uDYAAAAi/cat.gif" width="180"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=F78FB3&center=true&width=500&lines=Software+Engineering+Student;Learning%7C+Java+%7C+Python+%7C+Web" />
-</p>
+# ✦ Abril Díaz ✦
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78FB3&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;:3" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-F78FB3?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-F8A5C2?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-FFB6C1?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-FDCBDF?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FADADD?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</div>
 
 ---
 
-## About
+# 🌸 About Me
 
 ```yaml
-Name: Abril
-Focus:
- - Software Development
- - Networking
- - UI/UX
+name: Abril
+located_in: Mexico
 
-Currently Learning:
- - Java
- - Python
- - Web Technologies
-```
+currently_learning:
+  - Java
+  - Python
+  - Web Technologies
 
----
-
-## Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,git,github,vscode" />
-</p>
-
----
-
-## Projects
-
-- Cineblog  
-- Networking Chat Application  
-
----
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adiaz108&show_icons=true&theme=rose_pine&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=adiaz108&color=F78FB3&style=flat-square"/>
-</p>
+hobbies:
+  - Coding
+  - Designing
+  - Gaming
+  - Music
